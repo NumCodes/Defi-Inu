@@ -1,0 +1,32 @@
+{
+  "Num Codes": {
+    "password": "admin",
+    "coins": 9311,
+    "level": 5,
+    "credit": 2200,
+    "lastPrizeTime": 1724508309429,
+    "email": "ugochukwunweze899@gmail.com"
+  },
+  "numcodes": {
+    "password": "iammusic",
+    "coins": 316007,
+    "level": 5,
+    "credit": 2200,
+    "lastPrizeTime": 1767373507606,
+    "email": "iamnumcodes@gmail.com"
+  },
+  "Xamuel": {
+    "password": "blabla",
+    "coins": 34,
+    "level": 1,
+    "credit": 200
+  },
+  "Dominion": {
+    "password": "user",
+    "coins": 139631,
+    "level": 2,
+    "credit": 700,
+    "email": "dominonibekwe@gmail.com",
+    "lastPrizeTime": 1767578395762
+  }
+}
